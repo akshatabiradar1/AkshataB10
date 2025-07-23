@@ -21,7 +21,7 @@ A passionate **Data Science enthusiast** with hands-on experience in machine lea
 - **Email:** biradarakshata919@gmail.com
 - **LinkedIn:** [linkedin.com/in/akshata-biradar][(https://www.linkedin.com/in/akshata-biradar)](https://www.linkedin.com/in/akshatabiradar10/)
 - **GitHub:** [github.com/AkshataB12][(https://github.com/AkshataB12)
-](https://github.com/akshatabiradar1/AkshataB10)
+][(https://github.com/akshatabiradar1/AkshataB10)](https://github.com/akshatabiradar1)
 ---
 
 ### 🛠️ Tools & Skills:
