@@ -20,8 +20,8 @@ A passionate **Data Science enthusiast** with hands-on experience in machine lea
 ### 📫 How to reach me:
 - **Email:** biradarakshata919@gmail.com
 - **LinkedIn:** [linkedin.com/in/akshata-biradar][(https://www.linkedin.com/in/akshata-biradar)](https://www.linkedin.com/in/akshatabiradar10/)
-- **GitHub:** [github.com/AkshataB12](https://github.com/AkshataB12)
-
+- **GitHub:** [github.com/AkshataB12][(https://github.com/AkshataB12)
+](https://github.com/akshatabiradar1/AkshataB10)
 ---
 
 ### 🛠️ Tools & Skills:
@@ -47,4 +47,4 @@ A passionate **Data Science enthusiast** with hands-on experience in machine lea
 
 ### 🧠 GitHub Stats
 
-![Akshata's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshataB12&show_icons=true&theme=radical)
+![Akshata's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AkshataB12&show_icons=true&theme=radical](https://github.com/akshatabiradar1/AkshataB10))
